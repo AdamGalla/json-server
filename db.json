@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "password": "password123",
+      "email": "john.doe@example.com",
+      "address": {
+        "street": "123 Main Street",
+        "zip_code": "12345",
+        "country": "United States"
+      }
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "password": "smith456",
+      "email": "jane.smith@example.com",
+      "address": {
+        "street": "456 Elm Avenue",
+        "zip_code": "54321",
+        "country": "Canada"
+      }
+    },
+    {
+      "first_name": "David",
+      "last_name": "Johnson",
+      "password": "davidpass",
+      "email": "david.johnson@example.com",
+      "address": {
+        "street": "789 Oak Road",
+        "zip_code": "67890",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Wilson",
+      "password": "wilson123",
+      "email": "sarah.wilson@example.com",
+      "address": {
+        "street": "555 Pine Lane",
+        "zip_code": "54321",
+        "country": "Australia"
+      }
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Brown",
+      "password": "brown789",
+      "email": "michael.brown@example.com",
+      "address": {
+        "street": "321 Birch Street",
+        "zip_code": "98765",
+        "country": "Germany"
+      }
+    }
+  ]
+}
